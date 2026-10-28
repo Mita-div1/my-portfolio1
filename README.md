@@ -62,4 +62,4 @@ A personal portfolio website highlighting my skills, projects, and contact infor
 
 ---
 
-Thank you for visiting my portfolio!
+Thank you .
