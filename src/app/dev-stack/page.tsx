@@ -4,47 +4,47 @@ import Image from "next/image";
 const screenshots = [
   {
     title: "Dev Stack Home Page",
-    src: "/dev-stack/Dev%20Stack%20Home%20Page.png",
+    src: "/projects/dev-stack/Dev%20Stack%20Home%20Page.png",
     description: "The main page of the Dev Stack project.",
   },
   {
     title: "Multiple Selected Technologies",
-    src: "/dev-stack/dev-stack-multiple-selected.png",
+    src: "/projects/dev-stack/dev-stack-multiple-selected.png",
     description: "A screenshot showing multiple selected technology options.",
   },
   {
     title: "Technology Section",
-    src: "/dev-stack/dev-stack-technologies.png",
+    src: "/projects/dev-stack/dev-stack-technologies.png",
     description: "The technologies displayed in the application.",
   },
   {
     title: "Technology Section — View 2",
-    src: "/dev-stack/dev-stack-technologies2.png",
+    src: "/projects/dev-stack/dev-stack-technologies2.png",
     description: "An additional view of the technology section.",
   },
   {
     title: "Technology Section — View 3",
-    src: "/dev-stack/dev-stack-technologies3.png",
+    src: "/projects/dev-stack/dev-stack-technologies3.png",
     description: "Another view of the technology section.",
   },
   {
     title: "Technology Section — View 4",
-    src: "/dev-stack/dev-stack-technologies4.png",
+    src: "/projects/dev-stack/dev-stack-technologies4.png",
     description: "A further view of the technology section.",
   },
   {
     title: "React Toast Notification",
-    src: "/dev-stack/dev-stack-toast-react.png",
+    src: "/projects/dev-stack/dev-stack-toast-react.png",
     description: "A screenshot of the React-related toast notification.",
   },
   {
     title: "Remove Selection Toast",
-    src: "/dev-stack/dev-stack-remove-toast.png",
+    src: "/projects/dev-stack/dev-stack-remove-toast.png",
     description: "A screenshot of the notification for removing a selection.",
   },
   {
     title: "Footer",
-    src: "/dev-stack/dev-stack-footer.png",
+    src: "/projects/dev-stack/dev-stack-footer.png",
     description: "The footer section of the application.",
   },
 ];
