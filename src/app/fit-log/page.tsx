@@ -5,105 +5,105 @@ const screenshots = [
   {
     title: "FitLog Home Page",
     bn: "FitLog-এর হোম পেজ",
-    src: "/fitlog/FitLog Home Page.png",
+    src: "/fit-log/FitLog Home Page.png",
     description:
       "The main interface of FitLog provides an organized entry point to the application's exercise and workout-related features.",
   },
   {
     title: "Exercise Details",
     bn: "Exercise Details",
-    src: "/fitlog/fitlog-exercise-details.png",
+    src: "/fit-log/fitlog-exercise-details.png",
     description:
       "Presents detailed exercise information through a structured and user-friendly interface.",
   },
   {
     title: "Exercise Details — View 2",
     bn: "Exercise Details — Second View",
-    src: "/fitlog/fitlog-exercise-details2.png",
+    src: "/fit-log/fitlog-exercise-details2.png",
     description:
       "Demonstrates another view of the exercise details interface.",
   },
   {
     title: "Exercise Details — View 3",
     bn: "Exercise Details — Third View",
-    src: "/fitlog/fitlog-exercise-details3.png",
+    src: "/fit-log/fitlog-exercise-details3.png",
     description:
       "Showcases additional content from the exercise details section.",
   },
   {
     title: "Exercise Details — View 4",
     bn: "Exercise Details — Fourth View",
-    src: "/fitlog/fitlog-exercise-details4.png",
+    src: "/fit-log/fitlog-exercise-details4.png",
     description:
       "Highlights another part of the exercise information layout.",
   },
   {
     title: "Bicep Curl Exercise",
     bn: "Bicep Curl Exercise Details",
-    src: "/fitlog/fitlog-exercise-details-bicep-curl.jpg",
+    src: "/fit-log/fitlog-exercise-details-bicep-curl.png",
     description:
       "Shows the dedicated details view for the Bicep Curl exercise.",
   },
   {
     title: "Bicep Curl Exercise — View 2",
     bn: "Bicep Curl Exercise — Additional View",
-    src: "/fitlog/fitlog-exercise-details-bicep-curl2.png",
+    src: "/fit-log/fitlog-exercise-details-bicep-curl2.png",
     description:
       "Provides another view of the Bicep Curl exercise information.",
   },
   {
     title: "Exercise Library",
     bn: "Exercise Library",
-    src: "/fitlog/figlog-library-exercise-cards-list.png",
+    src: "/fit-log/figlog-library-exercise-cards-list.png",
     description:
       "Displays exercise cards in an organized library layout for convenient browsing.",
   },
   {
     title: "Exercise Library — View 2",
     bn: "Exercise Library — Second View",
-    src: "/fitlog/figlog-library-exercise-cards-list2.png",
+    src: "/fit-log/figlog-library-exercise-cards-list2.png",
     description:
       "Shows another portion of the exercise library and its card-based presentation.",
   },
   {
     title: "Exercise Library — View 3",
     bn: "Exercise Library — Third View",
-    src: "/fitlog/figlog-library-exercise-cards-list3.png",
+    src: "/fit-log/figlog-library-exercise-cards-list3.png",
     description:
       "Demonstrates additional exercise cards within the library.",
   },
   {
     title: "Exercise Library — View 4",
     bn: "Exercise Library — Fourth View",
-    src: "/fitlog/figlog-library-exercise-cards-list4.png",
+    src: "/fit-log/figlog-library-exercise-cards-list4.png",
     description:
       "Presents another view of the exercise library interface.",
   },
   {
     title: "My Plan",
     bn: "My Workout Plan",
-    src: "/fitlog/fitlog-my-plan.png",
+    src: "/fit-log/fitlog-my-plan.png",
     description:
       "Introduces the interface for viewing and organizing a workout plan.",
   },
   {
     title: "Active Workout Plan",
     bn: "Active Workout Plan",
-    src: "/fitlog/fitlog-my-plan-active.png",
+    src: "/fit-log/fitlog-my-plan-active.png",
     description:
       "Shows the interface for an active workout plan.",
   },
   {
     title: "Empty Workout Plan",
     bn: "Empty Workout Plan",
-    src: "/fitlog/fitlog-my-plan-empty.png",
+    src: "/fit-log/fitlog-my-plan-empty.png",
     description:
       "Demonstrates the empty state when a workout plan has no exercises added.",
   },
   {
     title: "Workout Plan Items",
     bn: "Workout Plan Items",
-    src: "/fitlog/fitlog-my-plan-items.png",
+    src: "/fit-log/fitlog-my-plan-items.png",
     description:
       "Displays the exercises included in a workout plan.",
   },
