@@ -242,7 +242,7 @@ export default function Home() {
 <div className="project-art">
   {project.name === "Bazar Dor" ? (
     <img
-      src="/projects/bazer-dor/Bazar Dor-এর হোম পেজ.png"
+      src="/projects/bazar-dor/Bazar Dor-এর হোম পেজ.png"
       alt="Bazar Dor Homepage"
       className="project-screenshot"
     />
